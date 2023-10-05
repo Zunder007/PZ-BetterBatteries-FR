@@ -8,4 +8,9 @@ Sandbox_FR = {
 	Sandbox_BetterBatteries_EndurancePenalty_tooltip = "Déterminer si oui ou non un bas niveau d'endurance appliquera une pénalité de temps. (Malgré cette option, vous ne pourrez pas utiliser la manivelle à un très bas niveau d'endurance.)",
 	Sandbox_BetterBatteries_UnhappinessPenalty = "Pénalité de tristesse sur la manivelle",
 	Sandbox_BetterBatteries_UnhappinessPenalty_tooltip = "Déterminer si oui ou non la tristesse appliquera une pénalité de temps.",
+
+	Sandbox_BetterBatteries_MaxCharge = "Charge maximale de la batterie",
+	Sandbox_BetterBatteries_MaxCharge_tooltip = "Définit la charge maximale à laquelle une manivelle peut restaurer une batterie.",
+	Sandbox_BetterBatteries_LifetimeMult = "Multiplicateur de durée de vie de la batterie",
+	Sandbox_BetterBatteries_LifetimeMult_tooltip = "Multiplicateur de durée de vie appliqué à tous les appareils électriques utilisant des piles. (Une valeur négative entraîne une charge illimitée, 0 entraîne une perte de charge instantanée.)",
 }
